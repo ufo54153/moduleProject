@@ -1,0 +1,4 @@
+github.com/ArcturusZhang/module-demo-test/services/aznet/mgmt/2019-10-01/aznet v1.0.1 h1:xjoniYzIixODRcBS31fUAu18YvcT9bn0ok1LUyGOKns=
+github.com/ArcturusZhang/module-demo-test/services/aznet/mgmt/2019-10-01/aznet v1.0.1/go.mod h1:udAsYqPUpkzTgAL9smpaxpuMv08A4KH3cdY2yqVOeQA=
+github.com/ArcturusZhang/module-demo-test/services/bznet/mgmt/2019-11-01/bznet v1.0.1 h1:tyFwdg3q4lS+HjuWwmLdxZG3ftWqDCKp35nhE534JIE=
+github.com/ArcturusZhang/module-demo-test/services/bznet/mgmt/2019-11-01/bznet v1.0.1/go.mod h1:laNBPBPqeZhuLqWRZ37F+PKAqx/SAnpVyvfjhwYWxFU=
